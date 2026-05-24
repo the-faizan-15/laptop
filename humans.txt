@@ -1,0 +1,95 @@
+/* humanstxt.org */
+
+/* TEAM */
+    Name: NexCore Team
+    Site: https://nexcore-laptop-repair.com
+    Twitter: @nexcore
+    Location: Lucknow, India
+
+    Name: Development Team
+    Role: Web Design & Development
+    Site: https://github.com
+    Contact: dev@nexcore.in
+
+/* THANKS */
+    - Open Web Community
+    - GitHub Community
+    - Web Accessibility Initiative
+
+/* SITE */
+    Last Update: 2024-01-15
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: 
+        - Semantic HTML
+        - CSS Grid & Flexbox
+        - Vanilla JavaScript
+        - Glassmorphism Design
+    Hosting: Cloudflare Pages
+    Build Tool: Static Site
+    Language: en-IN
+    Charset: UTF-8
+
+/* DESIGN & BRANDING */
+    Color Scheme: Dark Blue & Cyan Glassmorphism
+    Typography: System Fonts (Performance First)
+    Icons: Unicode & SVG
+    Mobile First: Responsive Design
+    Accessibility: WCAG 2.1 Level AA
+
+/* SERVICES */
+    Business: Laptop Repair Service
+    Founded: 2015
+    Location: Lucknow, Uttar Pradesh, India
+    Address: G-207, Rajendra Nagar, Lucknow 226001
+    Phone: +91-9415-444-888
+    Email: service@nexcore.in
+    WhatsApp: https://wa.me/919415444888
+
+/* TECHNOLOGIES */
+    HTML5: Semantic markup
+    CSS3: Advanced styling, animations
+    JavaScript: Modern ES6+
+    Service Worker: PWA capabilities
+    Meta Tags: SEO optimized
+    Schema Markup: LocalBusiness structured data
+    Performance: Lighthouse optimized
+
+/* INSPIRATION & INFLUENCES */
+    - Modern glassmorphism design trends
+    - Mobile-first development philosophy
+    - Progressive Web App principles
+    - Accessibility best practices
+    - Local SEO optimization
+
+/* VERSION HISTORY */
+    v1.0 - Initial launch
+        - 11 content sections
+        - Mobile responsive
+        - Dark/blue theme
+        - Full glassmorphism design
+        - PWA ready
+        - SEO optimized
+
+/* CREDITS */
+    Designed & Developed: NexCore Development Team
+    Concept: Premium Laptop Service Website
+    Year: 2024
+    License: Business License
+
+/* SOCIAL MEDIA */
+    Facebook: https://facebook.com/nexcore
+    Instagram: https://instagram.com/nexcore
+    WhatsApp: https://wa.me/919415444888
+    Email: service@nexcore.in
+
+/* CONTACT */
+    For inquiries, repairs, or feedback:
+    Phone: +91-9415-444-888
+    Email: service@nexcore.in
+    WhatsApp: +91-9415-444-888
+    Website: https://nexcore-laptop-repair.com
+
+    Hours: Monday - Sunday, 10 AM - 8 PM IST
+    Location: Lucknow, India
+
+/* END */
