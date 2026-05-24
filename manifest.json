@@ -1,7 +1,7 @@
 {
-  "name": "NexCore Laptop Service",
+  "name": "NexCore Laptop Service Lucknow",
   "short_name": "NexCore",
-  "description": "Premium laptop repair service in Lucknow with expert technicians and same-day service.",
+  "description": "Professional laptop repair & chip-level repair service center in Lucknow. Same-day service for HP, Dell, Lenovo, MacBook & all brands.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -43,7 +43,7 @@
       "name": "Call Us",
       "short_name": "Call",
       "description": "Call NexCore for immediate service",
-      "url": "tel:+919415444888",
+      "url": "tel:+919236336066",
       "icons": [
         {
           "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%231a7fd0' width='96' height='96' rx='16'/><path d='M48 28c11.046 0 20 8.954 20 20v10c0 1.104-.896 2-2 2h-6c-1.104 0-2-.896-2-2v-8c0-1.104-.896-2-2-2h-16c-1.104 0-2 .896-2 2v8c0 1.104-.896 2-2 2h-6c-1.104 0-2-.896-2-2v-10c0-11.046 8.954-20 20-20z' fill='%2300d4ff'/></svg>",
@@ -56,7 +56,7 @@
       "name": "WhatsApp",
       "short_name": "Chat",
       "description": "Message NexCore on WhatsApp",
-      "url": "https://wa.me/919415444888",
+      "url": "https://wa.me/919236336066",
       "icons": [
         {
           "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%2325d366' width='96' height='96' rx='16'/><path d='M48 18c16.569 0 30 13.431 30 30 0 16.568-13.431 30-30 30-5.089 0-9.877-1.271-14.043-3.501l-10.29 3.411 3.501-10.29C19.27 57.878 18 53.09 18 48c0-16.569 13.431-30 30-30z' fill='white' opacity='0.9'/></svg>",

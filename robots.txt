@@ -7,7 +7,7 @@ Disallow: /private/
 Crawl-delay: 1
 
 # Sitemap
-Sitemap: https://nexcore-laptop-repair.com/sitemap.xml
+Sitemap: https://authorisedlaptopservicelucknow.com/sitemap.xml
 
 # Specific rules for search engines
 User-agent: Googlebot
